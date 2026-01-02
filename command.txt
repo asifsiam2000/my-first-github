@@ -9,4 +9,4 @@ git push -u origin main
 lagbe all commands
 git add .
 git commit -m "my github commit"
-git push -u origin main
+git push 
